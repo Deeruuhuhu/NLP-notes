@@ -1,6 +1,8 @@
 # NLP-notes
 📘 NATURAL LANGUAGE PROCESSING (NLP) — NOTES
+
 🔹 What is NLP?
+
 
 Natural Language Processing (NLP) is a subfield of Artificial Intelligence that enables computers to understand, interpret, and generate human language.
 
