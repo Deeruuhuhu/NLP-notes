@@ -4,12 +4,16 @@
 
 Natural Language Processing (NLP) is a subfield of Artificial Intelligence that enables computers to understand, interpret, and generate human language.
 
+
 🔹 Goals of NLP
+
 Understand human language (text/speech)
 Extract meaning and intent
 Generate human-like responses
 Automate language-based tasks
+
 🔹 Levels of NLP
+
 Lexical Analysis
 Deals with words and vocabulary
 Example: identifying tokens
@@ -22,13 +26,17 @@ Example: understanding context
 Pragmatic Analysis
 Understands real-world intent
 Example: sarcasm, implied meaning
+
 🔹 NLP Pipeline (Step-by-Step)
+
 Text Input
 Preprocessing
 Feature Extraction
 Model Processing
 Output (prediction/response)
+
 🔹 Text Preprocessing Techniques
+
 
 These are VERY IMPORTANT (used in almost every NLP task):
 
