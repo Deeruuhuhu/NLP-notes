@@ -68,7 +68,9 @@ better → good
 
 Convert all text to lowercase
 
+
 🔹 Feature Extraction (Text → Numbers)
+
 
 Machines don’t understand text directly.
 
@@ -80,7 +82,9 @@ Weighs importance of words
 Word Embeddings
 Dense vector representation of words
 Captures meaning and relationships
+
 🔹 Important NLP Tasks
+
 1. Text Classification
 Spam detection
 Sentiment analysis
@@ -94,7 +98,9 @@ Shortens long text
 Answers based on context
 6. Speech Recognition
 Converts speech → text
+
 🔹 Traditional vs Modern NLP
+
 Traditional NLP
 Rule-based + statistical methods
 Limited understanding
@@ -110,7 +116,9 @@ These are based on:
 Neural Networks
 Context understanding
 Transformer architecture
+
 🔹 What are Transformers?
+
 
 A deep learning architecture that:
 
@@ -120,18 +128,24 @@ Understands context better than older models
 Key idea: Attention Mechanism
 → Focuses on important words in a sentence
 
+
 🔹 Applications of NLP
+
 Chatbots
 Voice assistants
 Google Translate
 Email spam filters
 Search engines
+
 🔹 Challenges in NLP
+
 Ambiguity (same word, different meanings)
 Sarcasm & tone
 Multiple languages
 Context understanding
+
 🔹 Popular NLP Libraries
+
 NLTK → beginner-friendly
 spaCy → fast & production-ready
 Transformers (Hugging Face) → advanced models
