@@ -19,15 +19,19 @@ Automate language-based tasks
 Lexical Analysis
 Deals with words and vocabulary
 Example: identifying tokens
+
 Syntactic Analysis (Parsing)
 Checks grammar and sentence structure
 Example: subject–verb relationships
+
 Semantic Analysis
 Extracts meaning from text
 Example: understanding context
+
 Pragmatic Analysis
 Understands real-world intent
 Example: sarcasm, implied meaning
+
 
 🔹 NLP Pipeline (Step-by-Step)
 
@@ -77,8 +81,10 @@ Machines don’t understand text directly.
 Techniques:
 Bag of Words (BoW)
 Counts word frequency
+
 TF-IDF (Term Frequency – Inverse Document Frequency)
 Weighs importance of words
+
 Word Embeddings
 Dense vector representation of words
 Captures meaning and relationships
